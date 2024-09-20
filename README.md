@@ -1,7 +1,10 @@
+
  HEAD
 # AI_Resume_Generator
 
 # ✨🚀 AI-Powered Resume Generator ✨
+# ✨ Resume Generator ✨
+ 29fe768 (Update README.md)
 
 ![resume generator](https://github.com/user-attachments/assets/a1e94daa-5bc2-4b13-9cc4-e8f9300878af)
 
